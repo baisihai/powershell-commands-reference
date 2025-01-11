@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the PowerShell Commands reference! 
+Welcome to the PowerShell Commands Reference! 
 
 This reference lists the commonly used commands and is not exhaustive. Where available, the individual command files will provide examples of usage for your reference. Enjoy!
 
