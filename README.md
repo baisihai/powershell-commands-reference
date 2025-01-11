@@ -1,4 +1,4 @@
-# ![alt text](./media/powershell-logo.png?raw=true) PowerShell Commands
+# ![alt text](./media/powershell-logo.png?raw=true) PowerShell Commands Reference
 
 ## Introduction
 
